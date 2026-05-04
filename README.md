@@ -14,7 +14,7 @@ A modern, high-end Discord review bot built with **discord.js v14** and the new 
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/Ea-reating.git
+   git clone https://github.com/l7oz/Ea-reating.git
    cd Ea-reating
    ```
 
@@ -59,6 +59,11 @@ The bot utilizes the modern **Components v2** system, meaning:
 ## 👤 Credits
 
 Developed by **Eagle | .l7o**.
+
+## 📝 ملاحظة (Note)
+
+هذا المشروع مفتوح المصدر ويحق لك التعديل عليه بما لا يخالف قوانين الديسكورد الرسمية.
+(This project is open-source, and you have the right to modify it in a way that does not violate official Discord rules.)
 
 ## 📄 License
 
