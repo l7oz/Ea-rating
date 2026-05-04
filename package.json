@@ -1,0 +1,13 @@
+{
+  "name": "ea-rating",
+  "author": "Eagle | .l7o",
+  "version": "1.0.0",
+  "description": "Discord review/rating bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.26.4"
+  }
+}
