@@ -14,8 +14,8 @@ A modern, high-end Discord review bot built with **discord.js v14** and the new 
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/l7oz/Ea-reating.git
-   cd Ea-reating
+   git clone https://github.com/l7oz/Ea-rating.git
+   cd Ea-rating
    ```
 
 2. **Install dependencies**:
